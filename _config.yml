@@ -1,3 +1,13 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole site, values
+# which you are expected to set up once and rarely edit after that.
+
+# theme: A supported theme name (e.g., jekyll-theme-minimal)
 theme: jekyll-theme-minimal
-title: Xingxing Yang (Shinshin)
-description: personal website
+
+# title: The title of your site, displayed in the browser tab.
+title: Dr. Xingxing Yang (Shinshin)
+
+# description: A short description of your site for search engines.
+description: The professional website of Dr. Xingxing Yang (Shinshin), Visiting Assistant Professor of Instruction, Department of Economics, University of South Florida

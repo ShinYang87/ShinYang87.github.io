@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Xingxing Yang (Shinshin)
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Xingxing
+last_name: Yang
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🛫
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,147 +23,156 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Visiting Assistant Professor of Instruction
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of South Florida
+    url: https://www.usf.edu/arts-sciences/departments/economics/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:xyang258@usf.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+  #- icon: brands/x
+  #  url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/shinyang87
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://www.linkedin.com/in/xyang87/
+  #- icon: academicons/google-scholar
+  #  url: https://scholar.google.com/citations?user=alexjohnson
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0003-6192-0070
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Industrial Organization
+  - Policy Evaluation
+  - Social and Economic Network
+  - Gig Economy
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+  - area: PhD in Economics
+    institution: New School for Social Research
+    date_start: 2016-09-01
+    date_end: 2023-08-31
+    #summary: |
+      
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com/thesis.pdf'
+  - area: MA in Economics
+    institution: Stony Brook University
+    date_start: 2014-08-17
+    date_end: 2016-05-31
+    #summary: |
+      
+  - area: BS Civial Engineering
+    institution: Hangzhou City University
+    date_start: 2005-09-01
+    date_end: 2009-05-31
+    
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Visiting Assistant Professor of Instruction
+    company_name: University of South Florida
+    company_url: 'https://www.usf.edu/arts-sciences/departments/economics/'
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2023-09-01
     date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+    summary: |
+      Teach two undergraduate courses Introduction to Econometrics and Introduction to Mathematical Economics.
+
+  - position: Research Analyst
+    company_name: Center for New York City Affairs
+    company_url: 'https://www.centernyc.org/'
     company_logo: ''
-    date_start: 2019-06-01
+    date_start: 2023-12-04
+    date_end: ''
+    summary: |
+      Analyzed the latest NYC Uber and Lyft trip data (Feb2019 to Dec2024) for the second-phase evaluation of the nationally-recognized NYC Minimum Driver Income Rule
+
+  - position: Adjunct Faculty
+    company_name: Saint Peter's University
+    company_url: 'https://www.saintpeters.edu/'
+    company_logo: ''
+    date_start: 2022-11-28
+    date_end: 2023-02-25
+    summary: |
+      Teach a graduate-level course Advanced Econometrics and Financial Modeling.
+
+  - position: Teaching Fellow
+    company_name: Eugene Lang College of Liberal Arts
+    company_url: 'https://www.newschool.edu/lang/'
+    company_logo: ''
+    date_start: 2021-08-21
+    date_end: 2022-12-17
+    summary: 
+      Teach an undergraduate course Quantitative Reasoning.
+
+  - position: Research Assistant
+    company_name: Center for New York City Affairs
+    company_url: 'https://www.centernyc.org/'
+    company_logo: ''
+    date_start: 2017-12-01
     date_end: 2019-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Managed and analyzed large For-hire Vehicle trips data for the NYC TLC-commissioned project, which assesses the economic impact of the proposed NYC minimum driver income rule. Conducted analysis of drive earning and working time for selected data period; derived driver expense estimates based on survey data. 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
+      - name: R
+        description: 'More than five-year experience analyzing very large longitudinal data with R'
+        percent: 90
         icon: code-bracket
-      - name: Machine Learning
+
+      - name: Python
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
+        percent: 70
+        icon: code-bracket
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Hiking
         description: ''
         percent: 80
         icon: person-simple-walk
-      - name: Building Custom PCs
+
+      - name: Reading (fiction)
         description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
+        percent: 60
         icon: book-open
+
+      - name: Swimming
+        description: ''
+        percent: 60
+        icon: ''
 
 languages:
   - name: English
+    percent: 90
+  - name: Chinese (Mandarin)
     percent: 100
-  - name: Spanish
-    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+  #- title: Best Paper Award
+
+  #  date: '2022-12-01'
+  #  awarder: NeurIPS
+  #  icon: hero/trophy
+  #  summary: |
+  #    Awarded for groundbreaking work on efficient training of large models. 
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am an applied economist and a visiting professor of instruction at the University of South Florida. My research insterests include industrial organization, policy evaluations, the gig economy, and social and economic networks. By working with daily high-frequency trip data, I've contributed significantly to the impact study of a naturally-recognized minimum pay rule (i.e. the New York City Driver Pay Rule). My current projects include the study of pricing strategy of Uber and Lyft and second-phase evaluation of the NYC Driver Pay Rule.

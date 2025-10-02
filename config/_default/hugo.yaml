@@ -6,7 +6,7 @@
 # Website name
 title: Xingxing Yang (Shinshin)
 # Website URL
-baseURL: 'shinshinyang.com'
+baseURL: 'https://example.com/'
 
 ############################
 ## LANGUAGE

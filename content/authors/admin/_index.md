@@ -69,10 +69,10 @@ education:
     date_end: 2016-05-31
     #summary: |
       
-  - area: BS Civial Engineering
-    institution: Hangzhou City University
-    date_start: 2005-09-01
-    date_end: 2009-05-31
+  #- area: BS Civial Engineering
+  #  institution: Hangzhou City University
+  #  date_start: 2005-09-01
+  #  date_end: 2009-05-31
     
 
 work:

@@ -175,4 +175,4 @@ languages:
   #    Awarded for groundbreaking work on efficient training of large models. 
 ---
 
-I am an applied economist and a visiting professor of instruction at the University of South Florida. My research insterests include industrial organization, policy evaluations, the gig economy, and social and economic networks. By working with daily high-frequency trip data, I've contributed significantly to the impact study of a naturally-recognized minimum pay rule (i.e. the New York City Driver Pay Rule). My current projects include the study of pricing strategy of Uber and Lyft and second-phase evaluation of the NYC Driver Pay Rule.
+I am an applied economist and a visiting professor of instruction at the University of South Florida. My research insterests include industrial organization, public policy, the gig economy, and social and economic networks. By working with high-frequency trip data, I've contributed significantly to the impact study of a naturally-recognized minimum pay rule (i.e. the New York City Driver Pay Rule). My current projects include the study of pricing strategy of Uber and Lyft and second-phase evaluation of the NYC Driver Pay Rule.

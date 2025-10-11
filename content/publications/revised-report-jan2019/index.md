@@ -29,7 +29,8 @@ tags:
 - Minimum wage
 - Policy report
 - Gig economy
-featured: false
+
+featured: true
 
 #hugoblox:
 #  ids:
@@ -38,7 +39,10 @@ featured: false
 links:
   - type: pdf
     url: https://www.centernyc.org/the-new-york-city-app-based-driver-pay-standard-revised
- 
+
+  #- type: cite
+  #  url: /publications/revised-report-jan2019/cite.bib
+
 #  - type: dataset
 #    url: ""
 
@@ -69,4 +73,4 @@ slides: ""
 
 
 
-# Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->

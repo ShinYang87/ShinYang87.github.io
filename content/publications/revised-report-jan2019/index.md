@@ -1,6 +1,5 @@
 ---
-title: "The New York City App-based Driver Pay Standard: Revised Estimates 
-for the New Pay Requirement"
+title: "The New York City App-based Driver Pay Standard: Revised Estimates for the New Pay Requirement"
 authors:
 - James Parrott
 - Michael Reich
@@ -21,7 +20,7 @@ publication_types: ["4"]
 #publication: "*Journal of Source Themes, 1*(1)"
 #publication_short: ""
 
-abstract: This brief report provides an update to the report that Parrott and Reich issued in July 2018, "An Earnings Standard for New York City’s App-based Drivers: Economic Analysis and Policy Assessment,” and informs the final pay standard as incorporated in the Driver Income and Transparency Rules, adopted by the New York City Taxi and Limousine Commission (TLC) on December 4, 2018.1 The new pay standard takes effect February 1, 2019. Since the July report, we have revised the basis for our expense analysis and used new data to revise our estimate of the extent by which current driver earnings fall below the proposed minimum driver pay standard. With the adopted rules, New York City becomes the first city in the U.S. to establish a minimum pay standard for app-dispatched drivers, and the first city anywhere with an incentive for companies to increase the percent of time a driver has apassenger is in the car.
+abstract: This brief report provides an update to the report that Parrott and Reich issued in July 2018, "An Earnings Standard for New York City’s App-based Drivers:Economic Analysis and Policy Assessment" and informs the final pay standard as incorporated in the Driver Income and Transparency Rules, adopted by the New York City Taxi and Limousine Commission (TLC) on December 4, 2018.1 The new pay standard takes effect February 1, 2019. Since the July report, we have revised the basis for our expense analysis and used new data to revise our estimate of the extent by which current driver earnings fall below the proposed minimum driver pay standard. With the adopted rules, New York City becomes the first city in the U.S. to establish a minimum pay standard for app-dispatched drivers, and the first city anywhere with an incentive for companies to increase the percent of time a driver has apassenger is in the car.
 
 # Summary. An optional shortened abstract.
 

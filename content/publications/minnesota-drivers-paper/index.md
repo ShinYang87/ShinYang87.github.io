@@ -1,6 +1,5 @@
 ---
-title: "The Economic Situation of Gig Passenger Drivers in 
-Minnesota"
+title: "The Economic Situation of Gig Passenger Drivers in Minnesota"
 authors:
 - James Parrott
 - Michael Reich

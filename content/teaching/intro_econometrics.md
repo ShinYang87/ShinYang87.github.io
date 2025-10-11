@@ -6,6 +6,7 @@ summary: "An introductory course on econometrics. Topics include the review of s
 # Optional tags to categorize your courses
 tags:
 - Undergraduate
+- Quantitative economics
 - Mandatory
 
 # Optional external URL for the course (e.g. Canvas, Moodle, Blackboard)
@@ -16,10 +17,10 @@ url_syllabus: "/syllabi/ECO4421_syllabus_fall2025.pdf"
 
 # Any other links you want to add
 links:
-- name: Lecture Slides
-  url: "" # Link to a zip file or external site
-- name: Problem Sets
-  url: ""
+#- name: Lecture Slides
+#  url: "" # Link to a zip file or external site
+#- name: Problem Sets
+#  url: ""
 
 # To show this course on the main widget, set featured=true.
 featured: true

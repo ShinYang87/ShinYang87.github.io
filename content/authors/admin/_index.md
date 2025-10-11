@@ -49,8 +49,8 @@ profiles:
 
 interests:
   - Industrial Organization
-  - Policy Evaluation
-  - Social and Economic Network
+  - Public Policy
+  - Social and Economic Networks
   - Gig Economy
 
 education:

@@ -4,10 +4,11 @@ type: "section"
 view: 2 #This tells the theme to use a card or list view.
 ---
 
-Here is a list of courses I have taught during the past five years.
+I have extensive experiences in teaching quantitative economics courses such as **econometrics** and **mathematical economics**. For students' evaluations for the two courses, please [contact me](mailto:xyang258@usf.edu).
+
 
 ### Undergraduate Courses
-* University of South Florida
+* **University of South Florida**
     * **ECON 4421: Introduction to Econometrics** (Fall 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025) - [Syllabus](/syllabi/ECO4421_syllabus_fall2025.pdf)
     * **ECON 4401: Introduction to Mathematical Economics** (Fall 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025) - [Syllabus](/syllabi/ECO4401_syllabus_f25.pdf)
 

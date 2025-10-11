@@ -9,13 +9,13 @@ date: "2024-10-08T00:00:00Z"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-10-06T00:00:00Z"
 
-# Publication type.
+# Publication type. use the following legend to specify the main type of your publication, 0 = Uncategorized;  1 = Conference paper; 2 = Journal article; 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section; 7 = Thesis; 8 = Patent
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-#publication: ""
+publication: "IRLE Working Paper"
 #publication_short: ""
 
 abstract: In May 2024 the State of Minnesota adopted a statewide minimum compensation standard for transportation network company (TNC) drivers, following the models in place in New York City and Seattle. In a report we conducted for the state, we used trip and compensation data for all of 2022 to analyze driver activity and compensation levels in relation to time worked and driver expenses, as well as the number of hours and miles TNC drivers accumulate per week, disaggregated by wait time, dispatch time and ride time. We also estimated the extent of “multi-apping,” i.e., drivers providing trips for both TNC companies. Our proposed core compensation standard would allow drivers to earn the equivalent of the state and local minimum wages for employees after covering all vehicle expenses; our alternative formulation included benefits. 
@@ -68,7 +68,5 @@ slides: ""
 ---
 
 
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

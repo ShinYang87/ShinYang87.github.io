@@ -1,7 +1,7 @@
 ---
 title: Teaching
 type: "section"
-#view: article-grid
+view: 2 #This tells the theme to use a card or list view.
 ---
 
 Here is a list of courses I have taught during the past five years.

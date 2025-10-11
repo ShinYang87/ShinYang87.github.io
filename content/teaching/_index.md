@@ -1,5 +1,6 @@
 ---
 title: Teaching
+type: "section"
 #view: article-grid
 ---
 

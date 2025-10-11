@@ -19,23 +19,23 @@ sections:
         text: Download CV
         url: uploads/CV_Sep2025.pdf
       headings:
-        about: ''
+        about: 'About Me'
         education: ''
         interests: ''
     design:
       # Apply a gradient background
-      css_class: hbx-bg-gradient
+      #css_class: hbx-bg-gradient
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: ''
-    design:
-      columns: '1'
+  #- block: markdown
+  #  content:
+  #    title: '📚 My Research'
+  #    subtitle: ''
+  #    text: ''
+  #  design:
+  #    columns: '1'
   - block: collection
     id: papers
     content:
@@ -68,7 +68,7 @@ sections:
   #    view: card
   
   - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+    demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
       title: 👉 Build your own academic website like this
       text: |-
